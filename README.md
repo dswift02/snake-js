@@ -1,1 +1,2 @@
-# snake-js
+#Snake Game
+## Using Javascript
